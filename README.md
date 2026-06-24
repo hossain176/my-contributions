@@ -17,3 +17,4 @@
 16 Solana 
 17 bnb
 18 BTC 
+19 major
