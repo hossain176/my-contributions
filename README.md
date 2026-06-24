@@ -7,4 +7,5 @@
 6 trump
 7 not
 8 dogs 
-9 telegram 
+9 telegram
+10 wct
