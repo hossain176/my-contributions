@@ -13,3 +13,4 @@
 12 Aptos 
 13 supra
 14 liquidity 
+15 fantom
