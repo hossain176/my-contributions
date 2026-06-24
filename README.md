@@ -15,3 +15,4 @@
 14 liquidity 
 15 fantom
 16 Solana 
+17 bnb
