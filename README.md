@@ -1,6 +1,6 @@
 # my-contributions
 1 core
-2 commit 
+2 zeta
 3 commit 
 4 commit
 5 commit
