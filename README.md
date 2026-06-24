@@ -39,7 +39,7 @@
 38 p jj
 39 q bb
 40 r cc
-41 s
+41 s uu
 42 t
 43 u
 44 v
