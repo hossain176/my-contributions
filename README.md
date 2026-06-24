@@ -41,7 +41,7 @@
 40 r cc
 41 s uu
 42 t zz
-43 u
+43 u yy
 44 v
 45 w
 46 x
